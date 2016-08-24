@@ -1,28 +1,28 @@
 {
-	"name": "apigeek-dialect-webapp",
-	"version": "1.6.0",
-	"description": "A BDD Dialect for browser-based web apps and sites",
-	"main": "lib/index.js",
-	"scripts": {
-		"test": "cd test/self && apigeek"
-	},
-	"bugs": {
-		"url": "https://github.com/apigeek/project/issues",
-		"email": "dialect@apigeek.me"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/apigeek/apigee-dialect-webapp.git"
-	},
-	"author": "dialect@apigeek.me",
-	"license": "Apache-2.0",
-	"dependencies": {
-		"apigeek-dialect-webapi":"^0.9.0",
-		"selenium-webdriver": "^3.0.0-beta-2",
-		"underscore": "^1.8.3"
-	},
-	"homepage": "https://github.com/apigeek/apigee-dialect-webapp",
-	"directories": {
-		"doc": "docs"
-	}
+  "name": "apigeek-dialect-webapp",
+  "version": "1.6.1",
+  "description": "A BDD Dialect for browser-based web apps and sites",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "cd test/self && apigeek"
+  },
+  "bugs": {
+    "url": "https://github.com/apigeek/project/issues",
+    "email": "dialect@apigeek.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apigeek/apigee-dialect-webapp.git"
+  },
+  "author": "dialect@apigeek.me",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "apigeek-dialect-webapi": "^0.9.0",
+    "selenium-webdriver": "^3.0.0-beta-2",
+    "underscore": "^1.8.3"
+  },
+  "homepage": "https://github.com/apigeek/apigee-dialect-webapp",
+  "directories": {
+    "doc": "docs"
+  }
 }
