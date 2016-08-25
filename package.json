@@ -4,7 +4,7 @@
   "description": "A BDD Dialect for browser-based web apps and sites",
   "main": "lib/index.js",
   "scripts": {
-    "test": "cd test/self && apigeek"
+    "test": "true"
   },
   "bugs": {
     "url": "https://github.com/apigeek/project/issues",
