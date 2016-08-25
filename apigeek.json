@@ -11,7 +11,7 @@
 		"timeout": 10000
 	},
 
-	"target": {
+	"targets": {
 		"google": {
 			"protocol": "https",
 			"hostname": "google.com",
@@ -19,7 +19,7 @@
 		}
 	},
 
-	"agent": {
+	"agents": {
 		"default": {
 
 		},
@@ -28,7 +28,7 @@
 		}
 	},
 
-	"certificate": {
+	"certificates": {
 	},
 
 	"webhooks_disabled": {

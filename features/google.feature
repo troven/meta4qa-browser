@@ -1,6 +1,6 @@
 Feature: Verify that Selenium is working
 
-@async
+@dialect=webapp
 @target=google
 Scenario: Test Google using Firefox
 
