@@ -1,20 +1,9 @@
 {
-	"protocol": "http",
-	"hostname": "localhost",
-	"port": "80",
-
-	"webdriver-x": {
-		"host": "http://ondemand.saucelabs.com/wd/hub"
-	},
 	"files": "files",
-	"mocha": {
-		"timeout": 10000
-	},
-
 	"targets": {
 		"google": {
 			"protocol": "https",
-			"hostname": "google.com",
+			"hostname": "www.google.com",
 			"port": "443"
 		}
 	},
@@ -22,21 +11,10 @@
 	"agents": {
 		"default": {
 
-		},
-		"me": {
-
 		}
 	},
 
 	"certificates": {
-	},
-
-	"webhooks_disabled": {
-		"debug": false,
-		"slack": {
-			"disabled": true,
-			"url": "https://hooks.slack.com/services/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"
-		}
 	}
 }
 

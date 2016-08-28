@@ -1,6 +1,6 @@
 {
   "name": "apigeek-dialect-webapp",
-  "version": "1.6.6",
+  "version": "1.7.0",
   "description": "A BDD Dialect for browser-based web apps and sites",
   "main": "lib/index.js",
   "scripts": {
@@ -19,7 +19,8 @@
   "dependencies": {
     "apigeek-dialect-webapi": "^0.9.0",
     "selenium-webdriver": "^3.0.0-beta-2",
-    "underscore": "^1.8.3"
+    "underscore": "^1.8.3",
+    "webdriverio": "^4.2.8"
   },
   "homepage": "https://github.com/apigeek/apigee-dialect-webapp",
   "directories": {
