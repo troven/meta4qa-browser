@@ -1,6 +1,6 @@
 {
   "name": "apigeek-dialect-webapp",
-  "version": "1.8.1",
+  "version": "1.8.2",
   "description": "A BDD Dialect for browser-based web apps and sites",
   "main": "lib/index.js",
   "scripts": {
