@@ -5,6 +5,11 @@
 			"protocol": "https",
 			"hostname": "www.google.com",
 			"port": "443"
+		},
+		"apigeeks": {
+			"protocol": "http",
+			"hostname": "localhost",
+			"port": "1337"
 		}
 	},
 

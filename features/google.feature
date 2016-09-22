@@ -1,3 +1,4 @@
+@skip
 Feature: Web Browser
 
 @dialect=webapp
