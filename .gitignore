@@ -1,5 +1,6 @@
 .DS_Store
 node_modules
+3rd_party
 .idea
 local
 npm-debug.log
