@@ -1,5 +1,5 @@
 {
-  "name": "apigeek-dialect-webapp",
+  "name": "meta4qa-browser",
   "version": "1.8.9",
   "description": "A BDD Dialect for browser-based web apps and sites",
   "main": "lib/index.js",
@@ -7,21 +7,21 @@
     "test": "true"
   },
   "bugs": {
-    "url": "https://github.com/apigeek/project/issues",
-    "email": "dialect@apigeek.me"
+    "url": "https://github.com/troven/project/issues",
+    "email": "cto@troven.com.au"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apigeek/apigee-dialect-webapp.git"
+    "url": "https://github.com/troven/meta4qa-browser.git"
   },
-  "author": "dialect@apigeek.me",
+  "author": "cto@troven.com.au",
   "license": "Apache-2.0",
   "dependencies": {
-    "apigeek-dialect-webapi": "^0.9.0",
+    "meta4qa-webapi": "^0.9.0",
     "underscore": "^1.8.3",
     "webdriverio": "^4.2.8"
   },
-  "homepage": "https://github.com/apigeek/apigee-dialect-webapp",
+  "homepage": "https://github.com/troven/meta4qa",
   "directories": {
     "doc": "docs"
   },

@@ -25,9 +25,9 @@ Let's start with an example:
 	
 	  Given I use firefox browser
 	  When I visit /
-	  When I type apigeek into q
+	  When I type meta4qa into q
 	  When I click btnG
-	  When I wait until page is apigeek - Google Search
+	  When I wait until page is meta4qa - Google Search
 	  Then I stop using browser
 	  Then dump
 
