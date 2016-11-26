@@ -1,6 +1,6 @@
 {
   "name": "meta4qa-browser",
-  "version": "1.8.9",
+  "version": "1.8.10",
   "description": "A BDD Dialect for browser-based web apps and sites",
   "main": "lib/index.js",
   "scripts": {
