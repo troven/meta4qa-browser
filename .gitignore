@@ -10,7 +10,7 @@ test.mock
 tmp
 notes
 dialects
-
+*.zip
 test/google/archive/
 selenium-server
 
